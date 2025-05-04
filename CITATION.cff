@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: 'jesse-sealand/skylite: Skylite'
+message: 'If you use this software, please cite it as below.'
+authors:
+  - name: "Jesse C. Sealand"
+abstract: "Manage model artifacts throughout the model development process."
+license: MIT
+license-url: "https://github.com/jesse-sealand/skylite/blob/main/LICENSE"
+repository-code: "https://github.com/jesse-sealand/skylite"
+keywords:
+  - python
+  - modeling
+  - model-development
+  - organization-tool
+
+type: software
+url: "https://github.com/jesse-sealand/skylite"
